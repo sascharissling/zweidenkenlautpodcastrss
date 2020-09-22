@@ -1,0 +1,31 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<channel>
+<title>Zwei Denken Laut</title>
+<language>de-de</language>
+<itunes:author>Sascha Rissling & Roman Hilser</itunes:author>
+<description> Es geht um Fun! https://instagram.com/romanjhickey https://instagram.com/sascharissling </description>
+<itunes:type>episodic</itunes:type>
+<itunes:owner>
+<itunes:name>Sascha Rissling</itunes:name>
+<itunes:email>zweidenkenlaut@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:image href="https://charliereese.ca/images/devpreneur.png"/>
+<itunes:category text="Entertainment"> </itunes:category>
+<itunes:category text="Metal"> </itunes:category>
+<itunes:explicit>true</itunes:explicit>
+<!-- Repeat This -->
+<item>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:episode>32</itunes:episode>
+<title>32: Tiny Capital - Micro-Cap Tech Private Equity</title>
+<description> Charlie and Tom talk about Tiny Capital: a micro-cap, tech private equity firm that starts, buys, and invests in wonderful internet businesses. </description>
+<enclosure length="18552080" type="audio/mpeg" url="https://charliereese.ca/podcasts/ep_32.mp3"/>
+<guid>https://charliereese.ca/podcasts/ep_32.mp3</guid>
+<pubDate>Sun, 20 Sep 2020 20:15:05 -0400</pubDate>
+<itunes:duration>772</itunes:duration>
+<itunes:explicit>true</itunes:explicit>
+</item>
+<item>
+<!-- Repeat this -->
+</channel>
+</rss>
